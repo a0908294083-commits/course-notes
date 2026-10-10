@@ -1,0 +1,12 @@
+# Obsidian 工作区状态（每个人的个人设置，不需要同步）
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+
+# 系统垃圾文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# 同步脚本产生的备份
+_sync_backup/
