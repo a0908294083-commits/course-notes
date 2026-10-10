@@ -10,3 +10,6 @@ desktop.ini
 
 # 同步脚本产生的备份
 _sync_backup/
+
+# 我自己用的同步脚本，不需要公开
+同步笔记.bat
